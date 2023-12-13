@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/proyecto-web-react1/static/css/main.95019a09.css",
+    "main.js": "/proyecto-web-react1/static/js/main.5811c70b.js",
+    "static/js/787.12f3fc55.chunk.js": "/proyecto-web-react1/static/js/787.12f3fc55.chunk.js",
+    "static/media/AccesoriosDeportivos2.png": "/proyecto-web-react1/static/media/AccesoriosDeportivos2.5adb36a2e4634eb218ad.png",
+    "static/media/descuento1.jpg": "/proyecto-web-react1/static/media/descuento1.0804f42ceadc6f48148e.jpg",
+    "static/media/descuento4.jpg": "/proyecto-web-react1/static/media/descuento4.286324187c4ad98ba029.jpg",
+    "static/media/descuento5.jpg": "/proyecto-web-react1/static/media/descuento5.2d2c0068e2366c10bf83.jpg",
+    "static/media/ArticulosDeportivos.jpg": "/proyecto-web-react1/static/media/ArticulosDeportivos.80b9fe4b9580c07c8add.jpg",
+    "index.html": "/proyecto-web-react1/index.html",
+    "main.95019a09.css.map": "/proyecto-web-react1/static/css/main.95019a09.css.map",
+    "main.5811c70b.js.map": "/proyecto-web-react1/static/js/main.5811c70b.js.map",
+    "787.12f3fc55.chunk.js.map": "/proyecto-web-react1/static/js/787.12f3fc55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95019a09.css",
+    "static/js/main.5811c70b.js"
+  ]
+}
